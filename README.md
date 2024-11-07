@@ -2,6 +2,8 @@
 
 Example project for using TypeORM+TS with Lambda/CDK.
 
+https://qiita.com/zhang_hang/items/aee1fce2695884eee733
+
 ## Useful commands
 
 - `npm run build` compile typescript to js
